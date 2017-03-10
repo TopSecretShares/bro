@@ -47,6 +47,10 @@ version = master
 script_dir = scripts
 url = https://github.com/sethhall/domain-tld
 
+[test/smtp-url]
+version = 0.1.0
+url = https://github.com/TopSecretShares/bro/tree/master/test
+
 [theflakes/bro-large_uploads]
 version = master
 url = https://github.com/theflakes/bro-large_uploads
